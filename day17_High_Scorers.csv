@@ -1,0 +1,117 @@
+,gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score,Average score
+2,female,group B,master's degree,standard,none,90,95,93,92.66666666666667
+6,female,group B,some college,standard,completed,88,95,92,91.66666666666667
+16,male,group C,high school,standard,none,88,89,86,87.66666666666667
+34,male,group E,some college,standard,none,97,87,82,88.66666666666667
+94,female,group B,some college,standard,none,79,86,92,85.66666666666667
+102,female,group D,associate's degree,standard,none,85,91,89,88.33333333333333
+104,male,group C,some college,standard,completed,98,86,90,91.33333333333333
+106,female,group D,master's degree,standard,none,87,100,100,95.66666666666667
+110,female,group D,associate's degree,free/reduced,completed,77,89,98,88.0
+114,female,group E,bachelor's degree,standard,completed,99,100,100,99.66666666666667
+120,female,group C,bachelor's degree,standard,completed,79,92,89,86.66666666666667
+121,male,group B,associate's degree,standard,completed,91,89,92,90.66666666666667
+122,female,group C,some college,standard,completed,88,93,93,91.33333333333333
+125,female,group B,high school,standard,none,87,95,86,89.33333333333333
+130,male,group D,master's degree,standard,none,89,84,82,85.0
+149,male,group E,associate's degree,free/reduced,completed,100,100,93,97.66666666666667
+164,female,group E,master's degree,standard,none,81,92,91,88.0
+165,female,group C,bachelor's degree,standard,completed,96,100,100,98.66666666666667
+171,male,group E,some high school,standard,none,94,88,78,86.66666666666667
+175,female,group C,master's degree,standard,completed,81,91,87,86.33333333333333
+179,female,group D,some high school,standard,completed,97,100,100,99.0
+214,male,group E,high school,standard,completed,87,91,81,86.33333333333333
+216,female,group E,associate's degree,free/reduced,completed,83,86,88,85.66666666666667
+229,female,group C,some college,standard,completed,88,95,94,92.33333333333333
+233,male,group E,some high school,standard,none,92,87,78,85.66666666666667
+263,female,group E,high school,standard,none,99,93,90,94.0
+268,female,group D,associate's degree,standard,completed,88,92,95,91.66666666666667
+276,female,group C,some high school,standard,completed,85,92,93,90.0
+286,male,group E,associate's degree,standard,completed,97,82,88,89.0
+306,male,group E,some college,standard,completed,99,87,81,89.0
+325,female,group C,some college,standard,none,82,90,94,88.66666666666667
+334,female,group C,bachelor's degree,standard,none,83,93,95,90.33333333333333
+347,female,group C,bachelor's degree,standard,completed,77,94,95,88.66666666666667
+359,female,group D,some college,standard,none,80,90,89,86.33333333333333
+373,female,group D,some college,standard,completed,82,97,96,91.66666666666667
+377,female,group D,master's degree,free/reduced,completed,85,95,100,93.33333333333333
+381,male,group C,associate's degree,standard,completed,87,100,95,94.0
+397,female,group C,associate's degree,standard,none,85,89,95,89.66666666666667
+403,female,group D,high school,standard,completed,88,99,100,95.66666666666667
+409,male,group D,associate's degree,standard,completed,87,84,85,85.33333333333333
+420,female,group C,associate's degree,free/reduced,completed,82,93,93,89.33333333333333
+426,male,group C,bachelor's degree,standard,none,86,83,86,85.0
+439,male,group D,some high school,standard,completed,89,88,82,86.33333333333333
+451,female,group E,some college,standard,none,100,92,97,96.33333333333333
+456,female,group D,bachelor's degree,standard,none,79,89,89,85.66666666666667
+458,female,group E,bachelor's degree,standard,none,100,100,100,100.0
+463,female,group C,some college,free/reduced,none,77,90,91,86.0
+465,female,group C,some college,standard,none,84,87,91,87.33333333333333
+470,female,group C,associate's degree,standard,completed,83,85,90,86.0
+474,female,group B,associate's degree,standard,completed,90,90,91,90.33333333333333
+492,female,group C,some college,standard,none,83,83,90,85.33333333333333
+493,female,group C,bachelor's degree,standard,none,81,88,90,86.33333333333333
+501,female,group B,associate's degree,standard,completed,94,87,92,91.0
+503,female,group E,associate's degree,standard,completed,95,89,92,92.0
+509,female,group C,bachelor's degree,standard,none,86,92,87,88.33333333333333
+514,female,group B,master's degree,free/reduced,completed,77,97,94,89.33333333333333
+521,female,group C,associate's degree,standard,none,91,86,84,87.0
+533,female,group E,associate's degree,standard,completed,79,88,94,87.0
+539,male,group A,associate's degree,standard,completed,97,92,86,91.66666666666667
+543,female,group D,associate's degree,standard,none,82,95,89,88.66666666666667
+546,female,group A,some high school,standard,completed,92,100,97,96.33333333333333
+551,male,group B,bachelor's degree,free/reduced,completed,87,90,88,88.33333333333333
+562,male,group C,bachelor's degree,standard,completed,96,90,92,92.66666666666667
+566,female,group E,bachelor's degree,free/reduced,completed,92,100,100,97.33333333333333
+571,male,group A,bachelor's degree,standard,none,91,96,92,93.0
+577,female,group B,high school,standard,none,81,91,89,87.0
+580,female,group D,some high school,standard,none,81,97,96,91.33333333333333
+594,female,group C,bachelor's degree,standard,completed,92,100,99,97.0
+604,male,group D,master's degree,free/reduced,completed,84,89,90,87.66666666666667
+612,male,group C,bachelor's degree,standard,completed,94,90,91,91.66666666666667
+614,female,group A,associate's degree,standard,none,82,93,93,89.33333333333333
+618,male,group D,master's degree,standard,none,95,81,84,86.66666666666667
+623,male,group A,some college,standard,completed,100,96,86,94.0
+625,male,group D,some college,standard,completed,100,97,99,98.66666666666667
+637,female,group D,some high school,standard,completed,80,92,88,86.66666666666667
+652,female,group D,some college,standard,completed,85,86,98,89.66666666666667
+659,male,group D,associate's degree,standard,none,90,87,85,87.33333333333333
+685,female,group E,master's degree,standard,completed,94,99,100,97.66666666666667
+689,male,group E,some college,free/reduced,none,93,90,83,88.66666666666667
+702,male,group A,bachelor's degree,standard,completed,87,84,87,86.0
+708,male,group D,high school,standard,none,89,87,79,85.0
+710,male,group C,some college,standard,completed,93,84,90,89.0
+712,female,group D,some college,standard,none,98,100,99,99.0
+715,female,group B,associate's degree,free/reduced,completed,76,94,87,85.66666666666667
+717,female,group C,associate's degree,standard,completed,96,96,99,97.0
+732,female,group C,some college,standard,completed,87,89,94,90.0
+736,male,group C,associate's degree,standard,none,92,79,84,85.0
+749,male,group B,some college,standard,completed,87,84,86,85.66666666666667
+755,female,group E,associate's degree,standard,none,84,95,92,90.33333333333333
+779,male,group E,associate's degree,standard,completed,94,85,82,87.0
+802,female,group E,associate's degree,standard,none,87,94,95,92.0
+815,male,group B,some high school,standard,completed,94,86,87,89.0
+819,female,group C,some high school,standard,none,77,91,88,85.33333333333333
+820,female,group A,some high school,standard,completed,85,90,92,89.0
+821,female,group D,bachelor's degree,free/reduced,none,78,90,93,87.0
+845,male,group E,master's degree,standard,none,90,85,84,86.33333333333333
+846,male,group C,master's degree,standard,completed,91,85,85,87.0
+852,female,group E,some college,standard,none,87,85,93,88.33333333333333
+855,female,group B,bachelor's degree,standard,none,97,97,96,96.66666666666667
+864,male,group C,associate's degree,standard,none,97,93,91,93.66666666666667
+873,male,group E,associate's degree,free/reduced,none,90,90,82,87.33333333333333
+886,female,group E,associate's degree,standard,completed,93,100,95,96.0
+890,female,group E,some college,standard,completed,86,85,91,87.33333333333333
+891,female,group E,associate's degree,standard,none,85,92,85,87.33333333333333
+900,male,group D,master's degree,standard,none,85,84,89,86.0
+903,female,group D,bachelor's degree,free/reduced,completed,93,100,100,97.66666666666667
+916,male,group E,bachelor's degree,standard,completed,100,100,100,100.0
+919,male,group B,some college,standard,completed,91,96,91,92.66666666666667
+934,male,group C,associate's degree,standard,completed,98,87,90,91.66666666666667
+941,female,group D,master's degree,standard,none,78,91,96,88.33333333333333
+957,female,group D,master's degree,standard,none,92,100,100,97.33333333333333
+962,female,group E,associate's degree,standard,none,100,100,100,100.0
+970,female,group D,bachelor's degree,standard,none,89,100,100,96.33333333333333
+979,female,group C,associate's degree,standard,none,91,95,94,93.33333333333333
+983,female,group A,some college,standard,completed,78,87,91,85.33333333333333
+995,female,group E,master's degree,standard,completed,88,99,95,94.0
